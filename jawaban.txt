@@ -1,0 +1,25 @@
+Jawablah pertanyaan berikut
+- Pada bulan dan tahun berapa data terakhir ditunjukkan?
+Jawab :
+Pada bulan ke-12 tahun 1960
+- Pada bulan apa yang memberikan banyak penumpang?
+Jawab :
+Pada bulan ke-8 atau bulan Agustus dengan total penumpang berjumlah 606 penumpang
+- Berapa total data pada data penumpang ini?
+Jawab:
+2397 Penumpang
+
+- Tambahkan Kembali kesimpulan
+yang bisa kalian berikan
+file: forecasting5.py
+Jawab:
+
+Tambahkan lagi hasil
+kesimpulan dari yang kalian 
+dapatkan. Boleh melihat dari
+sisi tipe
+-tipe forecastingnya, 
+data dibagian tertentu, arah
+grafik, dst
+file: forecasting7.py
+jawab:
